@@ -1,0 +1,1 @@
+arating each JSON output for clarity    const response = await bitBrowser.updatepartial(json);   

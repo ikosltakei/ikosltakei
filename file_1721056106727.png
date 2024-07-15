@@ -1,0 +1,1 @@
+e('sqlite3').verbose();// Create or open the SQLite database fileconst db = new sqlite3.Database(

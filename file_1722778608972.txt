@@ -1,0 +1,1 @@
+async function main() {  await clipboardy.write('butter');  const text = await clipboardy.read();

@@ -1,0 +1,1 @@
+ipboardContent;  } catch (error) {    console.error('Error reading clipboard:', error);  }}mod

@@ -1,0 +1,1 @@
+generator.readRandomFileAndExtractRandomString(), 5,7)  await commonLib.moveClickThenWait("点击文件名字"
